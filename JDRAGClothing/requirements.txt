@@ -1,0 +1,9 @@
+python-dotenv
+langchain-chroma
+langchain-core
+langchain-community
+langchain-text-splitters
+dashscope
+chromadb
+streamlit
+sqlalchemy
