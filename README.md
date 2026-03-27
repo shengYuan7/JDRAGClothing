@@ -1,2 +1,2 @@
 # JDRAGClothing
-ClothTing Agent
+一款智能客服应用，集成RAG知识图谱、工具调用等功能...
